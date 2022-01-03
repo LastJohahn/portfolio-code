@@ -31,3 +31,7 @@ ul, ol {
     height: 100%;
     margin: 0px;
 }
+
+.banner h1 {
+    font-size: xx-large;
+}
