@@ -77,6 +77,14 @@ ul, ol {
     margin: 3px 3px 6px
 }
 
+.banner a {
+    color: black
+}
+
+.banner a:visited {
+    color: black;
+}
+
 .project {
     display: flex;
     flex-direction: column;
