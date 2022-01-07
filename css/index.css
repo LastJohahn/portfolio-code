@@ -90,7 +90,6 @@ a:visited {
 .project {
     display: flex;
     flex-direction: column;
-    /* box-shadow: 0 1 lightgrey; */
 }
 
 .project h2 {
@@ -134,3 +133,6 @@ a:visited {
     border-radius: 3.75em;
 }
 
+footer {
+    box-shadow: 0px -1px lightgrey;
+}
